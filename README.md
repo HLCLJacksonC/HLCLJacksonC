@@ -3,8 +3,23 @@
   <p>
     <a href="https://github.com/HLCLJacksonC?tab=repositories"><img src="https://img.shields.io/badge/Repositories-8957e5?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0d1117" alt="Browse my repositories" /></a>
     <a href="https://jacksoncai.life"><img src="https://img.shields.io/badge/Personal_Portfolio-3fb950?style=for-the-badge&amp;labelColor=0d1117" alt="Personal portfolio" /></a>
+    <a href="#organizations"><img src="https://img.shields.io/badge/Organizations-8957e5?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Organizations" /></a>
   </p>
 </div>
+
+---
+
+### Organizations
+
+<p align="center">
+  <a href="https://github.com/goscribe"><img src="https://avatars.githubusercontent.com/u/228472621?v=4&amp;s=128" width="64" height="64" alt="goscribe" title="goscribe" /></a>
+  <a href="https://github.com/gosynapse"><img src="https://avatars.githubusercontent.com/u/235984679?v=4&amp;s=128" width="64" height="64" alt="gosynapse" title="gosynapse" /></a>
+  <a href="https://github.com/NOVA-Floorball"><img src="https://avatars.githubusercontent.com/u/264919152?v=4&amp;s=128" width="64" height="64" alt="NOVA-Floorball" title="NOVA-Floorball" /></a>
+  <a href="https://github.com/usenomad"><img src="https://avatars.githubusercontent.com/u/271518705?v=4&amp;s=128" width="64" height="64" alt="usenomad" title="usenomad" /></a>
+  <a href="https://github.com/Chronos-Intelligence"><img src="https://avatars.githubusercontent.com/u/319468731?v=4&amp;s=128" width="64" height="64" alt="Chronos-Intelligence" title="Chronos-Intelligence" /></a>
+  <a href="https://github.com/MixMind-HackMIT"><img src="https://avatars.githubusercontent.com/u/329811275?v=4&amp;s=128" width="64" height="64" alt="MixMind-HackMIT" title="MixMind-HackMIT" /></a>
+  <a href="https://github.com/MixMind-HackMIT-26"><img src="https://avatars.githubusercontent.com/u/331330661?v=4&amp;s=128" width="64" height="64" alt="MixMind-HackMIT-26" title="MixMind-HackMIT-26" /></a>
+</p>
 
 ---
 
