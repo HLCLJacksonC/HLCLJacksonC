@@ -2,8 +2,7 @@
   <img src="./assets/banner.svg" alt="Jackson Caizl — Counterclockwise." width="100%" />
   <p>
     <a href="https://github.com/HLCLJacksonC?tab=repositories"><img src="https://img.shields.io/badge/Repositories-8957e5?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0d1117" alt="Browse my repositories" /></a>
-    <a href="https://github.com/HLCLJacksonC?tab=followers"><img src="https://img.shields.io/github/followers/HLCLJacksonC?label=Follow&amp;style=for-the-badge&amp;color=3fb950&amp;labelColor=0d1117" alt="GitHub followers" /></a>
-    <img src="https://komarev.com/ghpvc/?username=HLCLJacksonC&amp;label=Views&amp;color=3fb950&amp;style=for-the-badge" alt="Profile views" />
+    <a href="https://jacksoncai.life"><img src="https://img.shields.io/badge/Personal_Portfolio-3fb950?style=for-the-badge&amp;labelColor=0d1117" alt="Personal portfolio" /></a>
   </p>
 </div>
 
